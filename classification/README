@@ -1,1 +1,2 @@
-
+UvA-Wine_Quality_Classification
+Wine Dataset Preprocessing using Python. Usage of  LinearSVC, LogisticRegression, KNeighborsClassifier classifiers.
